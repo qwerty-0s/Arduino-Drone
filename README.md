@@ -1,2 +1,2 @@
-# Arduino-Drone
-Делаю квадрокоптер на базе микроконтроллера Arduino Nano v3
+# Arduino-drone
+квадрокоптер на базе микроконтроллера Arduino Nano v3
